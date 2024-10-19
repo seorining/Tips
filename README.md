@@ -1,4 +1,4 @@
-# Misc Cheatsheet
+# Tips
 
 이 레포는 다음과 같은 내용을 포함하고 있습니다.
 
